@@ -1,7 +1,9 @@
 /build/
 /test/build/
 /xcodeproj/
+/infer-out/
 .vscode/
+Testing/
 
 # Object files
 *.o
